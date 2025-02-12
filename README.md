@@ -13,5 +13,4 @@
 
 Рывок: Во время бега нажать S
 
-![umbra](https://github.com/user-attachments/assets/bb24c896-51d3-4a3e-9f3a-6095dfa7ee58)
-
+![umbra](https://github.com/user-attachments/assets/34eb9029-dcc2-4eed-913d-287c8112c37f)
