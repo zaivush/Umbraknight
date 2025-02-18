@@ -11,4 +11,5 @@
 
 Для активации навыков необходимо переместить их на панель. По умолчанию первый слот панели привязан к клавише X.
 
-![umbra](https://github.com/user-attachments/assets/34eb9029-dcc2-4eed-913d-287c8112c37f)
+![umbra4](https://github.com/user-attachments/assets/7c5244f2-ad56-491a-9ebb-3473b229a280)
+
