@@ -1,16 +1,16 @@
 # Umbraknight
-Управление:
+Управление:  
+Идти: A/D  
+Бежать: Shift+A/D  
+Прыжок: Space  
+Инвентарь: I  
+Панель заклинаний: B  
 
-Идти: A/D
-Бежать: Shift+A/D
-Прыжок: Space
-Сесть: Ctrl
+![image](https://github.com/user-attachments/assets/bab4a577-50b0-4d56-aeed-6894a594052f)
 
-Инвентарь: I
-Панель заклинаний: B
+![image](https://github.com/user-attachments/assets/2540211d-4ff9-4a19-bd74-73c8a7090f5e)
 
-Для активации навыков необходимо переместить их на панель.
+![image](https://github.com/user-attachments/assets/6b196ee1-2c2d-439d-8b5d-ae140446ea77)
 
-![image](https://github.com/user-attachments/assets/40be52b4-24ef-4c4a-a4dd-cba91885b2bc)
 
 
